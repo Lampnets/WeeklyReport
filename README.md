@@ -23,7 +23,7 @@ See a sample weekly report [here](https://github.com/Lampnets/weekly_report/8_3_
 
 3. ***Q: Length?***
 
-   *A: 1 page at least*.
+   *A: No strict requirements*.
    
 4. ***Q: Why should I write weekly reports?***
 
