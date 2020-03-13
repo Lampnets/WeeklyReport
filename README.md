@@ -9,7 +9,7 @@ Repository to store weekly reports of Lampnets development.
 
 ## Format
 
-See a sample weekly report [here](https://github.com/Lampnets/weekly_report/8_3_2020-14_3_2020/sample_8_3_2020-14_3_2020.md).
+See a sample weekly report [here](https://github.com/Lampnets/weekly_report/blob/master/8_3_2020-14_3_2020/sample_8_3_2020-14_3_2020.md).
 
 ## Q&A
 
