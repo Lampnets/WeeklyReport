@@ -15,7 +15,7 @@ See a sample weekly report [here](https://github.com/Lampnets/weekly_report/blob
 
 1. ***Q: When should I report my regular activities?***
 
-    *A: Generally, on* **each Friday**. *The manager will ensure that each participant has submitted this reports at the consecutive Saturday, 0:00 am.*
+    *A: Generally, on* **each Friday**. *The manager will ensure that each participant has submitted his reports before the consecutive Saturday, 0:00 am.*
 
 2. ***Q: What if I miss one weekly report?***
 
